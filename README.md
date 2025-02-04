@@ -20,10 +20,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Resource Group
+- Create Virtual Network and Subnet
+- Create and Deploy Virtual Machines
+- Setup Windows Remote Desktop for Domain Control/DNS and Client PC
+- Configure Networking
+- Configure Windows Firewall
+- Verify Connectivity
 
 <h2>Deployment and Configuration Steps</h2>
 
