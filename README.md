@@ -192,10 +192,14 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cXjzE2y.png"/>
 </p>
 <p>
-Fillin.
+  <ul>
+    <li>Select <b>Windows 10 Pro, version 22H2</b> as the <b>Image</b></li>
+    <li>Choose a <b>Size</b> with at least <b>2 vcpus</b>.</li>
+   
+  </ul>
 </p>
 <br />
 
