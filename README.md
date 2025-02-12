@@ -137,16 +137,18 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 </p>
 <p>
   * Select <b>Windows Server 2022</b> as the <b>Image</b>. <br>
-  * Choose a <b>Size</b> with at least <b>2 vCPUs</b>. <br>
+  * Choose a <b>Size</b> with at least <b>2 vcpus</b>. <br>
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kL7t6Dw.png"/>
 </p>
 <p>
-Fillin.
+  * Create a <b>Username and Password</b>. <br>
+  * Click Next for <b>Disks</b>. <br>
+  * Click Next for <b>Networking</b>
 </p>
 <br />
 
