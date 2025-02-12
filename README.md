@@ -297,15 +297,18 @@ Open <b>Windows Remote Desktop</b>.
 <p>
 Select the dropdown menu and select <b>Add PC</b>
 </p>
-<br />
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ym9in7e.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <ul>
+    <li>Paste the <b>Public IP Address<b> copied from Azure Domain Controler VM and create a <b>PC Name<b></li>
+    <li>Enter the <b>Username and Password<b> you created in Azure for the Domain Controler VM created.</li>
+  </ul>
 </p>
-<br />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
