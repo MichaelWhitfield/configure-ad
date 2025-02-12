@@ -3,8 +3,12 @@
 </p>
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
-
-
+  <ul>
+    <li>Milk</li>
+    <li>Eggs</li>
+    <li>Bread</li>
+    <li>Cheese</li>
+  </ul>
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
@@ -52,11 +56,11 @@ Navigate to Resource Groups or use the search bar to type in "Resource Groups.
 <p>
 <img src="https://i.imgur.com/ln4bwrb.png"/>
 </p>
-<p>
-  * Click Create to set up a new Resource Group.<br>
-  * Name the Resource Group. I chose <b>Active-Directory-Lab</b>.<br>
-  * Select Region: <b>East US 2</b>. Select Region closest to your location.<br>
-  
+<p><ul>
+  <li>Click Create to set up a new Resource Group.</li><br>
+  <li>Name the Resource Group. I chose <b>Active-Directory-Lab</b>.</li><br>
+  <li>Select Region: <b>East US 2</b>. Select Region closest to your location.</li><br>
+  </ul>
 
 </p>
 <br />
