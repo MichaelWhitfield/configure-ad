@@ -133,10 +133,12 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bpnyruf.png"/>
 </p>
 <p>
-Fillin.
+  * Select <b>Windows Server 2022</b> as the <b>Image</b>. <br>
+  * Choose a <b>Size</b> with at least <b>2 vCPUs</b>. <br>
+
 </p>
 <br />
 
