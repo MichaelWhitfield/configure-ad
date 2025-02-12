@@ -158,16 +158,14 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <p>
   * Click Next for <b>Networking</b> <br>
   * Confirm <b>Virtual Network</b> you created in prior steps is selected. <b>Active-Directory-VNet</b> <br>
-  * Click <b>Review + Create</b>, then click <b>Create</b>.
+  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LRJPxH0.png"/>
 </p>
-<p>
-Fillin.
-</p>
+<p>* Click <b>Review + Create</b>, then click <b>Create</b>.</p>
 <br />
 
 <p>
