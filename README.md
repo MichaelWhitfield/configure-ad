@@ -252,23 +252,23 @@ On the Azure Virtual Machines main tab you can see the Virtual Machines (VMs) cr
 <p>
 Select <b>Network Interface.</b>
 </p>
-<br />
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eOPIfxQ.png"/>
 </p>
 <p>
-Fillin.
+Select <b>ipconfig1.</b>
 </p>
-<br />
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9H2WUX2.png"/>
 </p>
 <p>
-Fillin.
+Set <b>Allocation</b> to <b>Static</b> and press save.
 </p>
-<br />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
