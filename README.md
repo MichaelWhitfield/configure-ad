@@ -269,7 +269,8 @@ Select <b>ipconfig1.</b>
 Set <b>Allocation</b> to <b>Static</b> and press save.
 </p>
 
-
+<h4>Disable Windows Firewall (for testing connectivity)</h4>
+<p><b>Warning:</b>It is recommended to keep the Windows Firewall enabled at all times. Only disabling the Windows Firewall to ensure connectivity while testing during the project. 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
