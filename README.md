@@ -129,7 +129,7 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <p>
   <ul>
   <li>Click <b>Create Azure Virtual Machine</b>. </li><br>
-  <li>Ensure the correct <b>Resource Group</b> is selected. The same Resource Group setup in prior steps. In my case the Resource Group is <b>Active-<br>    Directory-Lab</b></li> <br>
+  <li>Ensure the correct <b>Resource Group</b> is selected. The same Resource Group setup in prior steps. <b>Active-Directory-Lab</b></li> <br>
   <li>Name the Virtual Machine. I chose <b>DC-1</b></li> <br>
   <li>Confirm Region: <b>East US 2</b>. Your Region may differ from mine, but be sure it matches the Region you selected through out the project.</li>
   </ul>
