@@ -230,7 +230,9 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <p>
 On the Azure Virtual Machines main tab you can see the Virtual Machines (VMs) created. <b>Client-1 and DC-1</b>
 </p>
-<br />
+
+<h4>Set Domain Controller Network Interface Card (NIC) to Static</h4>
+<p>During the project we don't want the Domain Control Server/DNS changing IPs due to the <b>Dynamic</b> setting.</p>This may prevent the Client machine from talking to the Domain Control Server/DNS.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
