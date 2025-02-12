@@ -178,7 +178,7 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <h4>Create Virtual Machine (Client)</h4>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/E1k8zSk.png"/>
 </p>
 <p>
   * On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar. <br>
