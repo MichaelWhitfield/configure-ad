@@ -272,10 +272,14 @@ Set <b>Allocation</b> to <b>Static</b> and press save.
 <h4>Disable Windows Firewall (for testing connectivity)</h4>
 <p><b>Warning:</b>It is recommended to keep the Windows Firewall enabled at all times. Only disabling the Windows Firewall to ensure connectivity while testing during the project. 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kJDzx3P.png"/>
 </p>
 <p>
-Fillin.
+  <ul>
+    <li>Access the Azure Virtual Machines main window and select the Domain Controller VM <b>DC-1</b></li>
+    <li>Locate and copy the <b>Public IP</b> of the Domain Controller VM</li>
+  </ul>  
+    
 </p>
 <br />
 
