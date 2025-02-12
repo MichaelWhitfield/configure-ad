@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h3>Setup Resources in Azure</h3>
 
-<p>Setup an Azure account and navigate to the home screen.<p>
+<p>Setup an Azure account or login to your existing Azure account. Once logged in navigate to the home screen.<p>
   
 <p>
 <img src="https://i.imgur.com/2zzd9kI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
