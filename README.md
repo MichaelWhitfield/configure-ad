@@ -84,7 +84,7 @@ On the Azure homescreen Navigte to <b>Virtual Network</b> or type it into the se
 <br />
 
 <p>
-<img src="https://i.imgur.com/ENBurha.png"/>
+<img src="https://i.imgur.com/4uvhebg.png"/>
 </p>
 
 <br />
