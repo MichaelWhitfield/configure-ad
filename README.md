@@ -255,7 +255,7 @@ Select <b>Network Interface.</b>
 
 
 <p>
-<img src="https://i.imgur.com/eOPIfxQ.png"/>
+<img src="https://i.imgur.com/lpuePGB.png"/>
 </p>
 <p>
 Select <b>ipconfig1.</b>
