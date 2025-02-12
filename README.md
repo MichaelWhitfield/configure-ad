@@ -43,26 +43,31 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h4>Create Resource Group</h4>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nptZ0kD.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to Resource Groups or use the search bar to type in "Resource Groups.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/ln4bwrb.png"/>
+</p>
+<p>
+  * Click Create to set up a new Resource Group.<br>
+  * Name the Resource Group. I chose <b>Active-Directory-Lab</b>.<br>
+  * Select Region: <b>East US 2</b>. Select Region closest to your location.<br>
+  
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z9sTJKh.png"/>
 </p>
 <p>
-Fillin.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Fillin.
+Click <b>Review + Create</b>, then click <b>Create</b>.
 </p>
 <br />
 
