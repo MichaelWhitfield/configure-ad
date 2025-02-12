@@ -176,11 +176,18 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 </p>
 <br />
 
+<h4>Create Virtual Machine (Client)</h4>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Fillin.
+  * On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar. <br>
+  * Click <b>Create Azure Virtual Machine</b>. <br>
+  * Ensure the correct <b>Resource Group</b> is selected. The same Resource Group setup in prior steps. In my case the Resource Group is <b>Active-    
+    Directory-Lab</b> <br>
+  * Name the Virtual Machine. I chose <b>Client-1</b> <br>
+  * Confirm Region: <b>East US 2</b>. Your Region may differ from mine, but be sure it matches the Region you selected through out the project.
 </p>
 <br />
 
