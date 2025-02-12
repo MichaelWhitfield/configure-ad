@@ -211,13 +211,16 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
     <li>Select the <b>Licensing</b> box.</li>
   </ul>
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CC5qJ7n.png"/>
 </p>
 <p>
-Fillin.
+  <ul>
+  <li>Click Next for <b>Disks</b>and next for <b>networking.</b></li>
+  <li>Confirm the Virtual Network you created in prior steps is selected. <b>Active-Directory-VNet</b></li>
+  <li>Click <b>Review + Create</b>, and then Click <b>Create.</b></li>
+  </ul>
 </p>
 <br />
 
