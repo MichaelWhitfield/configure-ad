@@ -278,6 +278,7 @@ Set <b>Allocation</b> to <b>Static</b> and press save.
   <ul>
     <li>Access the Azure Virtual Machines main window and select the Domain Controller VM <b>DC-1</b></li>
     <li>Locate and copy the <b>Public IP</b> of the Domain Controller VM</li>
+    
   </ul>  
     
 </p>
@@ -306,6 +307,7 @@ Select the dropdown menu and select <b>Add PC</b>
   <ul>
     <li>Paste the <b>Public IP Address<b> copied from Azure Domain Controler VM and create a <b>PC Name<b></li>
     <li>Enter the <b>Username and Password<b> you created in Azure for the Domain Controler VM created.</li>
+    <li>Click Add</li>  
   </ul>
 </p>
 
