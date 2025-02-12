@@ -222,13 +222,13 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
   <li>Click <b>Review + Create</b>, and then Click <b>Create.</b></li>
   </ul>
 </p>
-<br />
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VXyTmhc.png"/>
 </p>
 <p>
-Fillin.
+On the Azure Virtual Machines main tab you can see the Virtual Machines (VMs) created. <b>Client-1 and DC-1</b>
 </p>
 <br />
 
