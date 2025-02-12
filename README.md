@@ -281,13 +281,13 @@ Set <b>Allocation</b> to <b>Static</b> and press save.
   </ul>  
     
 </p>
-<br />
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CYCJw09.png"/>
 </p>
 <p>
-Fillin.
+Open <b>Windows Remote Desktop</b>.
 </p>
 <br />
 
