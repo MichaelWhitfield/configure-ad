@@ -235,7 +235,7 @@ On the Azure Virtual Machines main tab you can see the Virtual Machines (VMs) cr
 <p>During the project we don't want the Domain Control Server/DNS changing IPs due to the <b>Dynamic</b> setting.</p>This may prevent the Client machine from talking to the Domain Control Server/DNS.
 
 <p>
-<img src="https://i.imgur.com/q5HNnG7.png"/>
+<img src="https://i.imgur.com/4Csx01e.png"/>
 </p>
 <p>
   <ul>
