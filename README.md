@@ -110,7 +110,7 @@ On the Azure homescreen Navigte to <b>Virtual Network</b> or type it into the se
 <br />
 
 
-<h4>Create Virtual Machine <u>Windows Server</u></h4>
+<h4>Create Virtual Machine <em>Windows Server</em></h4>
 
 <p>
 <img src="https://i.imgur.com/x4d0ZR5.png"/>
