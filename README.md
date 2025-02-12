@@ -201,13 +201,15 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
    
   </ul>
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L1HecdU.png"/>
 </p>
 <p>
-Fillin.
+  <ul>
+    <li>Create a <b>Username and Password</b>.</li>
+    <li>Select the <b>Licensing</b> box.</li>
+  </ul>
 </p>
 <br />
 
