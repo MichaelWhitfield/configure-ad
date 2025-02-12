@@ -235,18 +235,22 @@ On the Azure Virtual Machines main tab you can see the Virtual Machines (VMs) cr
 <p>During the project we don't want the Domain Control Server/DNS changing IPs due to the <b>Dynamic</b> setting.</p>This may prevent the Client machine from talking to the Domain Control Server/DNS.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q5HNnG7.png"/>
 </p>
 <p>
-Fillin.
+  <ul>
+    <li>Select the <b>Domain Controller (VM) DC-1</b></li>.
+    <li>Expand <b>Networking</b> dropdown menu</li>.
+    <li>Select <b>Network settings</b></li>
+  </ul>
 </p>
-<br />
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RP4PEoI.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select <b>Network Interface.</b>
 </p>
 <br />
 
