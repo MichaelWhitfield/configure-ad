@@ -95,12 +95,12 @@ On the Azure homescreen Navigte to <b>Virtual Network</b> or type it into the se
 <p>
 <img src="https://i.imgur.com/r1JmfFi.png"/>
 </p>
-<p>
-  * Click <b>Create</b> to set up a new <b>Virtual Network</b>.<br>
-  * Ensure the correct <b>Resource Group</b> is selected that was created in prior steps.<br>
-  * Name the Virtual Network. I chose "<b>Active-Directory-VNet</b>.<br>
-  * Choose same <b>Region</b> you selected for Resource Group. I selected <b>East US 2</b>
-
+<p><ul>
+  <li>Click <b>Create</b> to set up a new <b>Virtual Network</b>.</li><br>
+  <li>Ensure the correct <b>Resource Group</b> is selected that was created in prior steps.</li><br>
+  <li>Name the Virtual Network. I chose "<b>Active-Directory-VNet</b>.</li><br>
+  <li>Choose same <b>Region</b> you selected for Resource Group. I selected <b>East US 2</b></li>
+</ul>
 </p>
 <br />
 
