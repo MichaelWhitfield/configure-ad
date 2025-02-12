@@ -139,20 +139,20 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <p>
 <img src="https://i.imgur.com/Bpnyruf.png"/>
 </p>
-<p>
-  * Select <b>Windows Server 2022</b> as the <b>Image</b>. <br>
-  * Choose a <b>Size</b> with at least <b>2 vcpus</b>. <br>
-
+<p><ul>
+  <li>Select <b>Windows Server 2022</b> as the <b>Image</b>.</li>
+  <li>Choose a <b>Size</b> with at least <b>2 vcpus</b>.</li>
+</ul>
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/kL7t6Dw.png"/>
 </p>
-<p>
-  * Create a <b>Username and Password</b>. <br>
-  * Click Next for <b>Disks</b>. <br>
-  
+<p><ul>
+  <li>Create a <b>Username and Password</b>.</li>
+  <li>Click Next for <b>Disks</b>.</li>
+ </ul> 
 </p>
 <br />
 
@@ -160,16 +160,17 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <img src="https://i.imgur.com/7T2jGOU.png"/>
 </p>
 <p>
-  * Click Next for <b>Networking</b> <br>
-  * Confirm <b>Virtual Network</b> you created in prior steps is selected. <b>Active-Directory-VNet</b> <br>
-  
+  <ul>
+  <li>Click Next for <b>Networking</b></li>
+  <li>Confirm <b>Virtual Network</b> you created in prior steps is selected. <b>Active-Directory-VNet</b></li>
+  </ul>
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/LRJPxH0.png"/>
 </p>
-<p>* Click <b>Review + Create</b>, then click <b>Create</b>.</p>
+<p>Click <b>Review + Create</b>, then click <b>Create</b>.</p>
 <br />
 
 <p>
@@ -185,12 +186,13 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <p>
 <img src="https://i.imgur.com/E1k8zSk.png"/>
 </p>
-<p>
-  * On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar. <br>
-  * Click <b>Create Azure Virtual Machine</b>. <br>
-  * Ensure the correct <b>Resource Group</b> is selected. The same Resource Group setup in prior steps. In my case the Resource Group is <b>Active-Directory-Lab</b> <br>
-  * Name the Virtual Machine. I chose <b>Client-1</b> <br>
-  * Confirm Region: <b>East US 2</b>. Your Region may differ from mine, but be sure it matches the Region you selected through out the project.
+<p><ul>
+  <li>On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.</li>
+  <li>Click <b>Create Azure Virtual Machine</b>.</li>
+  <li>Ensure the correct <b>Resource Group</b> is selected. The same Resource Group setup in prior steps. <b>Active-Directory-Lab</b></li>
+  <li>Name the Virtual Machine. I chose <b>Client-1</b></li>
+  <li>Confirm Region: <b>East US 2</b>. Your Region may differ from mine, but be sure it matches the Region you selected through out the project.</li>
+  </ul>
 </p>
 <br />
 
