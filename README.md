@@ -102,10 +102,10 @@ On the Azure homescreen Navigte to <b>Virtual Network</b> or type it into the se
 <br />
 
 <p>
-<img src="https://i.imgur.com/Sr8qIpg.png"/>
+<img src="https://i.imgur.com/gq5LPu0.png"/>
 </p>
 <p>
-Fillin.
+<b>Active-Directory-VNet</b> deployed
 </p>
 <br />
 
