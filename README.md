@@ -113,7 +113,7 @@ On the Azure homescreen Navigte to <b>Virtual Network</b> or type it into the se
 <h4>Create Virtual Machine</h4>
 
 <p>
-<img src="https://i.imgur.com/0Qa3ETC.png"/>
+<img src="https://i.imgur.com/x4d0ZR5.png"/>
 </p>
 <p>
 On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
