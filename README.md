@@ -90,7 +90,7 @@ On the Azure homescreen Navigte to <b>Virtual Network</b> or type it into the se
 <br />
 
 <p>
-<img src="https://i.imgur.com/Sr8qIpg.png"/>
+<img src="https://i.imgur.com/r1JmfFi.png"/>
 </p>
 <p>
   * Click <b>Create</b> to set up a new <b>Virtual Network</b>.<br>
