@@ -30,7 +30,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<h3>Create Resource Group</h3>
+<h3>Setup Resources in Azure</h3>
 
 <p>Setup an Azure account and navigate to the home screen.<p>
   
