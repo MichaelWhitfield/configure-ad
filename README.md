@@ -409,10 +409,10 @@ In Azure select or search for the Virtual Machines created.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9vkWTzA.png"/>
 </p>
 <p>
-Fillin.
+Restart the <b>Client VM</b>
 </p>
 
 <p>
