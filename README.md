@@ -482,8 +482,12 @@ Copy Domain Controller Private IP address from Azure VM Domain Controller (DC-1)
 On the command line of PowerShell type <b>ping</b>, paste the <b>Domain Controller Private IP</b> address from clipboard and press enter.
 </p>
 
+<hr>
+
+<h4>Verify Client DNS Configuration</h4>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EP4iarA.png"/>
 </p>
 <p>
 Fillin.
