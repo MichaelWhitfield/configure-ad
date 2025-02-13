@@ -415,11 +415,15 @@ In Azure select or search for the Virtual Machines created.
 Restart the <b>Client VM</b>
 </p>
 
+<hr>
+
+<h4>Verify Client Connectivity to Domain Controller</h4>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AxAmAcm.png"/>
 </p>
 <p>
-Fillin.
+Copy <b>Client VM</b> Public IP
 </p>
 
 <p>
