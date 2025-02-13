@@ -386,13 +386,72 @@ In Azure select or search for the Virtual Machines created.
 
 <p>
   <ul>
-    <li>Select the <b>Client VM</b></li>
-    <li>Select <b>Networking</b> and then <b>Network Settings</b> from the dropdown list</li>.
-    <li>Select <b>Network Interface</b></li>
+    <li>Select the <b>Client VM</b> </li>
+    <li>Select <b>Networking</b> and then <b>Network Settings</b> from the dropdown list </li>.
+    <li>Select <b>Network Interface</b> </li>
   </ul>
 </p>
 
 
+<p>
+<img src="https://i.imgur.com/aXMGPta.png"/>
+</p>
+<p>
+Fillin.
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fillin.
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fillin.
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fillin.
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fillin.
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fillin.
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fillin.
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fillin.
+</p>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
 Fillin.
 </p>
