@@ -489,18 +489,18 @@ On the command line of PowerShell type <b>ping</b>, paste the <b>Domain Controll
 <p>
 <img src="https://i.imgur.com/EP4iarA.png"/>
 </p>
-<p>
-Fillin.
-</p>
 
 <p>
 <img src="https://i.imgur.com/hjVTVMl.png"/>
 </p>
 <p>
-Fillin.
+  <ul>
+    <li>In PowerShell on Client VM type ipconfig /all in command line and press enter</li>
+    <li>Locate the DNS Server information to verify it is set to the Domain Controller Private IP</li>
+  </ul>
 </p>
 
-
+<html>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -508,18 +508,4 @@ Fillin.
 Fillin.
 </p>
 
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Fillin.
-</p>
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Fillin.
-</p>
+</html>
