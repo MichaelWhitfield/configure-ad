@@ -427,10 +427,14 @@ Copy <b>Client VM</b> Public IP
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MLo8a1h.png"/>
 </p>
 <p>
-Fillin.
+  <ul>
+    <li>Open <b>Windows Remote Desktop</b></li>
+    <li>Select Add PC from dropdown list</li>
+    <li>Paste Client VM Public IP in PC Name field, type a Friendly Name and press Add</li>
+  </ul>
 </p>
 
 <p>
