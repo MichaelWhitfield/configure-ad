@@ -327,6 +327,11 @@ Select the dropdown menu and select <b>Add PC</b>
 <p>
 <img src="https://i.imgur.com/vAqFf6P.png"/>
 </p>
+
+<p>
+<img src="https://i.imgur.com/Nk5KeUW.png"/>
+</p>
+
 <p>
   <ul>
     <li>Right click on the start menu and select <b>Run</b></li>.
@@ -343,9 +348,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 Fillin.
 </p>
