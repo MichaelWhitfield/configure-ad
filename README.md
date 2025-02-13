@@ -460,7 +460,7 @@ Double click PC Icon for client in Windows Remote Desktop, sign in with username
 <img src="https://i.imgur.com/BrEMtJl.png"/>
 </p>
 <p>
-Obtain Domain Controller Private IP address from Azure VM Domain Controller (DC-1)
+Copy Domain Controller Private IP address from Azure VM Domain Controller (DC-1)
 </p>
 
 <p>
@@ -478,12 +478,8 @@ Obtain Domain Controller Private IP address from Azure VM Domain Controller (DC-
 <img src="https://i.imgur.com/6gYelOY.png"/>
 </p>
 
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Fillin.
+On the command line of PowerShell type <b>ping</b>, paste the <b>Domain Controller Private IP</b> address from clipboard and press enter.
 </p>
 
 <p>
