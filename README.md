@@ -352,7 +352,7 @@ Select the dropdown menu and select <b>Add PC</b>
 Disable firewall settings under <b>Domain, Private, and Public Profiles.</b>
 </p>
 
-
+<h4>Configure Client DNS to Domain controller</h4>
 
 
 <p>
