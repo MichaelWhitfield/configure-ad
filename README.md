@@ -344,11 +344,12 @@ Select the dropdown menu and select <b>Add PC</b>
 <img src="https://i.imgur.com/9vzTDR4.png"/>
 </p>
 
-
-
+<p>
+<img src="https://i.imgur.com/mM8KdMW.png"/>
+</p>
 
 <p>
-fillin
+Disable firewall settings under <b>Domain, Private, and Public Profiles.</b>
 </p>
 <br />
 
@@ -357,9 +358,7 @@ fillin
 Fillin.
 </p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 Fillin.
 </p>
