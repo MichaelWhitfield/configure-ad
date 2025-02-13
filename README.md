@@ -351,21 +351,14 @@ Select the dropdown menu and select <b>Add PC</b>
 <p>
 Disable firewall settings under <b>Domain, Private, and Public Profiles.</b>
 </p>
-<br />
+
+
 
 
 <p>
-Fillin.
+<img src="https://i.imgur.com/eYyaDlM.png"/>
 </p>
 
-
-<p>
-Fillin.
-</p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Fillin.
 </p>
