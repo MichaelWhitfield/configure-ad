@@ -69,8 +69,8 @@ Click <b>Review + Create</b>, then click <b>Create</b>.
 <p>
   <img src="https://i.imgur.com/K1R4Tk3.png"/>
 </p>
-<br />
 
+<hr>
 <h4>Create Virtual Network and Subnet</h4>
 
 <p>
@@ -105,9 +105,9 @@ On the Azure homescreen Navigte to <b>Virtual Network</b> or type it into the se
 <p>
 <b>Active-Directory-VNet</b> deployed
 </p>
-<br />
 
 
+<hr>
 <h4>Create Virtual Machine <em>Windows Server</em></h4>
 
 <p>
@@ -174,8 +174,9 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 <p>
   Virtual Machine Windows Server Deployed
 </p>
-<br />
 
+
+<hr>
 <h4>Create Virtual Machine (Client)</h4>
 
 <p>
@@ -231,6 +232,7 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 On the Azure Virtual Machines main tab you can see the Virtual Machines (VMs) created. <b>Client-1 and DC-1</b>
 </p>
 
+<hr>
 <h4>Set Domain Controller Network Interface Card (NIC) to Static</h4>
 <p>During the project we don't want the Domain Control Server/DNS changing IPs due to the <b>Dynamic</b> setting.</p>This may prevent the Client machine from talking to the Domain Control Server/DNS.
 
@@ -269,6 +271,7 @@ Select <b>ipconfig1.</b>
 Set <b>Allocation</b> to <b>Static</b> and press save.
 </p>
 
+<hr>
 <h4>Disable Windows Firewall (for testing connectivity)</h4>
 <p><b>Warning:</b>It is recommended to keep the Windows Firewall enabled at all times. Only disabling the Windows Firewall to ensure connectivity while testing during the project. 
 <p>
@@ -352,6 +355,7 @@ Select the dropdown menu and select <b>Add PC</b>
 Disable firewall settings under <b>Domain, Private, and Public Profiles.</b>
 </p>
 
+<hr>
 <h4>Configure Client DNS to Domain controller</h4>
 
 
