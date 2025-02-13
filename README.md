@@ -500,12 +500,8 @@ On the command line of PowerShell type <b>ping</b>, paste the <b>Domain Controll
   </ul>
 </p>
 
-<html>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Fillin.
+<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-</html>
+<p>This project teaches you how to create and configure essential Azure resources, including Resource Groups, Virtual Networks and Virtual Machines. These skills are fundamental for cloud-based Active Directory environments. The project also provides hands-on experience in setting up and managing an Active Directory in Azure. In this project we also gained experience in PowerShell, Windows Remote Desktop and how to verify network connectivity between the Client and Domain Controller/DNS.  </p>
