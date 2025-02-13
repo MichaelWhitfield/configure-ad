@@ -217,9 +217,9 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 </p>
 <p>
   <ul>
-  <li>Click Next for <b>Disks</b> and next for <b>networking.</b></li>
-  <li>Confirm the Virtual Network you created in prior steps is selected. <b>Active-Directory-VNet</b></li>
-  <li>Click <b>Review + Create</b>, and then Click <b>Create.</b></li>
+    <li>Click Next for <b>Disks</b> and next for <b>Networking.</b></li>
+    <li>Confirm the Virtual Network you created in prior steps is selected. <b>Active-Directory-VNet</b></li>
+    <li>Click <b>Review + Create</b>, and then Click <b>Create.</b></li>
   </ul>
 </p>
 
