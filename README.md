@@ -429,8 +429,8 @@ Copy <b>Client VM</b> Public IP
 <p>
 <img src="https://i.imgur.com/MLo8a1h.png"/>
 </p>
-<p>
-  <ul>
+
+<p><ul>
     <li>Open <b>Windows Remote Desktop</b></li>
     <li>Select Add PC from dropdown list</li>
     <li>Paste Client VM Public IP in PC Name field, type a Friendly Name and press Add</li>
