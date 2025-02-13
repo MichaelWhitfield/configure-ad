@@ -456,16 +456,11 @@ Double click PC Icon for client in Windows Remote Desktop, sign in with username
   In Windows home screen type <b>PowerShell</b> in search bar and select PowerShell
 </p>
 
-
 <p>
-Fillin.
-</p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BrEMtJl.png"/>
 </p>
 <p>
-Fillin.
+Obtain Domain Controller Private IP address from Azure VM Domain Controller (DC-1)
 </p>
 
 <p>
