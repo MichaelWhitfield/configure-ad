@@ -438,10 +438,10 @@ Copy <b>Client VM</b> Public IP
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qeyoX6M.png"/>
 </p>
 <p>
-Fillin.
+Double click PC Icon for client in Windows Remote Desktop, sign in with username and password.
 </p>
 
 <p>
