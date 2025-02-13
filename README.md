@@ -396,15 +396,16 @@ In Azure select or search for the Virtual Machines created.
 <p>
 <img src="https://i.imgur.com/aXMGPta.png"/>
 </p>
-<p>
-Fillin.
-</p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nBtBs33.png"/>
 </p>
 <p>
-Fillin.
+  <ul>
+    <li>Select <b>DNS Servers</b> from the dropdown list under Settings.</li>
+    <li>Select Custom and select option to Add DNS Server</li>
+    <li>Paste the <b>DC Private IP</b> and save.</li>
+  </ul>
 </p>
 
 <p>
