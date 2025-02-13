@@ -379,6 +379,11 @@ In Azure select or search for the Virtual Machines created.
 <p>
 <img src="https://i.imgur.com/MCoz5S3.png"/>
 </p>
+
+<p>
+<img src="https://i.imgur.com/Qnl0KiE.png"/>
+</p>
+
 <p>
   <ul>
     <li>Select the <b>Client VM</b></li>
@@ -387,9 +392,7 @@ In Azure select or search for the Virtual Machines created.
   </ul>
 </p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 Fillin.
 </p>
