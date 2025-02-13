@@ -445,15 +445,18 @@ Double click PC Icon for client in Windows Remote Desktop, sign in with username
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Fillin.
+<img src="https://i.imgur.com/4Q6DJ9l.png"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CyWewxV.png"/>
 </p>
+
+<p>
+  In Windows home screen type <b>PowerShell</b> in search bar and select PowerShell
+</p>
+
+
 <p>
 Fillin.
 </p>
