@@ -217,7 +217,7 @@ On Azure homescreen navigate to <b>Virtual Machine</b> or type in search bar.
 </p>
 <p>
   <ul>
-  <li>Click Next for <b>Disks</b>and next for <b>networking.</b></li>
+  <li>Click Next for <b>Disks</b> and next for <b>networking.</b></li>
   <li>Confirm the Virtual Network you created in prior steps is selected. <b>Active-Directory-VNet</b></li>
   <li>Click <b>Review + Create</b>, and then Click <b>Create.</b></li>
   </ul>
@@ -360,7 +360,9 @@ Disable firewall settings under <b>Domain, Private, and Public Profiles.</b>
 </p>
 
 <p>
-Fillin.
+  <ul>
+    <li>In Azure access your VMs and select the Domain Controller (VM)</li>
+    <li>Copy the <b>Private IP</b> of the Domain Controller.</li>
 </p>
 
 <p>
