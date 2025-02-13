@@ -475,7 +475,7 @@ Obtain Domain Controller Private IP address from Azure VM Domain Controller (DC-
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6gYelOY.png"/>
 </p>
 
 
